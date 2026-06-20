@@ -1,4 +1,5 @@
-TC-01: Admission Requirements - Pass
-TC-02: Scholarship Information - Pass
-TC-03: Student Services - Pass
-TC-04: Unknown Question - Pass
+TC-01: Chatbot launches successfully - PASS
+TC-02: Gradio GUI loads correctly - PASS
+TC-03: Hugging Face model loads successfully - PASS
+TC-04: User enters "Hello" and receives generated response - PASS
+TC-05: GitHub repository contains all project files - PASS
